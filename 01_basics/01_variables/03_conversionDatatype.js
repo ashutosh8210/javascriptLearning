@@ -28,4 +28,20 @@ console.log(variableInBoolean)
 // "ashu" => true
 
 
+// ********Operations******
+
+// console.log(2-2);
+// console.log(2+2);
+// console.log(2*2);
+// console.log(2**3);
+// console.log(23/3);
+// console.log(23%3);
+
+console.log(5+3*4+8/4-3);
+
+
+
+
+
+
 
