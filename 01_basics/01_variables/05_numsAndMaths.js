@@ -28,6 +28,6 @@ console.log(Math.abs(-6))
 
 
 const max=20
-const min=10
+const min=12
 
-console.log((Math.random()*(max-min)+1));
+console.log((Math.random()*(max-min)+1)+min);
